@@ -1,0 +1,36 @@
+.get-in-touch {
+  padding: 50px;
+  text-align: center;
+  background-color: #333;
+  color: white;
+}
+
+.get-in-touch h2 {
+  margin-bottom: 20px;
+}
+
+.contact-form {
+  max-width: 500px;
+  margin: 0 auto;
+  text-align: left;
+}
+
+.contact-form input,
+.contact-form textarea {
+  display: block;
+  width: 100%;
+  margin-bottom: 15px;
+  padding: 10px;
+}
+
+.contact-form button {
+  background-color: #f39c12;
+  color: white;
+  border: none;
+  padding: 10px 20px;
+  cursor: pointer;
+}
+
+.contact-form button:hover {
+  background-color: #e67e22;
+}

@@ -1,0 +1,27 @@
+.coffee-menu {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+  gap: 20px;
+  margin-top: 30px;
+}
+
+.coffee-item {
+  max-width: 300px;
+  border: 2px solid red;
+  padding: 20px;
+  text-align: center;
+}
+
+.coffee-item img {
+  max-width: 100%;
+}
+
+.coffee-item h3 {
+  margin-top: 10px;
+}
+
+.coffee-item p {
+  margin-top: 5px;
+  color: #888;
+}
